@@ -33,9 +33,9 @@ def draw_plot():
 
 
     # Add labels and title
-    plt.xlabel('Ano')
-    plt.ylabel('Nível do Mar (polegadas)')
-    plt.title('Elevação do Nível do Mar')
+    plt.xlabel('Year')
+    plt.ylabel('Sea Level (inches)')
+    plt.title('Rise in Sea Level')
     plt.legend()
 
     
